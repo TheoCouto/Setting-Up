@@ -1,7 +1,7 @@
 # Setting Up
 
 ## About the Project
-- EPITECH *First Year* Project (2023)
+- **First Year** EPITECH Project (2023)
 - **Module:** Elementary Programming in C
 - **Duration:** 3 weeks (04/11/2023 - 24/11/2023)
 - **Solo** Project
@@ -24,7 +24,7 @@ Your program must print the solved board, with some **"."** replaced by **"x"** 
 
 ## EPITECH Tests
 
-|COVERAGE|..%|
+|UNIT TESTS|COVERAGE %|
 |-|-|
 |Branches|0%|
 |Lines|0%|
@@ -55,4 +55,4 @@ Your program must print the solved board, with some **"."** replaced by **"x"** 
 |Robustness - Opening empty map|6/6|No|
 |Robustness - Opening filled map|6/6|No|
 |Robustness - Opening valid file|5/5|No|
-|**TOTAL PASSED**|**20/20**|**No**|
+|**TOTAL**|**20/20**|**No**|
