@@ -1,0 +1,4 @@
+./my_hexadecimal.c:48: MINOR:C-L2
+./my_hexadecimal.c:52: MINOR:C-G8
+./my_put_unsigned.c:3: MINOR:C-G7
+./my_strstr.c:11: MINOR:C-F8
